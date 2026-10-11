@@ -1,0 +1,56 @@
+[
+  {
+    "transaction_id": "6acb70e565acfc9f779918e6",
+    "currency": "USD",
+    "amount": 100,
+    "tax_amount": 12,
+    "total_value": 112,
+    "processed_at": "2026-10-11T11:21:24.803Z",
+    "agent_id": "MONGOOSE_ETL_01"
+  },
+  {
+    "transaction_id": "6acb70e565acfc9f779918e7",
+    "currency": "EUR",
+    "amount": 250,
+    "tax_amount": 30,
+    "total_value": 280,
+    "processed_at": "2026-10-11T11:21:24.804Z",
+    "agent_id": "MONGOOSE_ETL_01"
+  },
+  {
+    "transaction_id": "6acb70e565acfc9f779918e9",
+    "currency": "USD",
+    "amount": 500,
+    "tax_amount": 60,
+    "total_value": 560,
+    "processed_at": "2026-10-11T11:21:24.804Z",
+    "agent_id": "MONGOOSE_ETL_01"
+  },
+  {
+    "transaction_id": "6acb70e565acfc9f779918ea",
+    "currency": "PHP",
+    "amount": 1250,
+    "tax_amount": 150,
+    "total_value": 1400,
+    "processed_at": "2026-10-11T11:21:24.804Z",
+    "agent_id": "MONGOOSE_ETL_01"
+  },
+  {
+    "transaction_id": "6acb70e565acfc9f779918ec",
+    "currency": "USD",
+    "amount": 800,
+    "tax_amount": 96,
+    "total_value": 896,
+    "processed_at": "2026-10-11T11:21:24.804Z",
+    "agent_id": "MONGOOSE_ETL_01"
+  },
+  {
+    "transaction_id": "6acb70e565acfc9f779918ed",
+    "currency": "EUR",
+    "amount": 320,
+    "tax_amount": 38.4,
+    "total_value": 358.4,
+    "processed_at": "2026-10-11T11:21:24.804Z",
+    "agent_id": "MONGOOSE_ETL_01"
+  }
+]
